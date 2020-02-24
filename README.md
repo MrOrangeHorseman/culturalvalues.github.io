@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+# culturalvalues.github.io
+The culturalvalues Political Quiz measures individuals' cultural values, determining whether they are culturally left or right and whether they are edgy or civil.
